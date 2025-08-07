@@ -26,6 +26,8 @@ DDDA 项目的交互式 notebook，不仅演示从多源聚合物理数据到自
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Build](https://github.com/<user>/owl-llm-cookbook/actions/workflows/ci.yml/badge.svg)](…)
 [![MadeWith](https://img.shields.io/badge/Made%20with-Jupyter-blue)](…)
+![Citations Tracked](https://img.shields.io/badge/references-traceable-blue)
+
 
 ---
 

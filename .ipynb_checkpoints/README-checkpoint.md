@@ -6,6 +6,8 @@
 
 This notebook is a hands-on walkthrough of **DDDA**, a lightweight yet extensible toolkit for building dimensional analysis pipelines from data. It aims to **automate the discovery of Buckingham Π-groups**, quantify uncertainty, and reveal **phase-separated dimensional regimes** through real datasets.
 
+DDDA 项目的交互式 notebook，不仅演示从多源聚合物理数据到自动 Pi 组发现和不确定性分析的全过程，还记录了关键设计决策、探索思路与被放弃的方法。
+
 📦 **What's inside?**
 
 - 🔗 **Data integration** for physical quantities
@@ -24,6 +26,8 @@ This notebook is a hands-on walkthrough of **DDDA**, a lightweight yet extensibl
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Build](https://github.com/<user>/owl-llm-cookbook/actions/workflows/ci.yml/badge.svg)](…)
 [![MadeWith](https://img.shields.io/badge/Made%20with-Jupyter-blue)](…)
+![Citations Tracked](https://img.shields.io/badge/references-traceable-blue)
+
 
 ---
 
@@ -68,5 +72,3 @@ jupyter lab
   note         = {Accessed August 7, 2025}
 }
 ```
-
-> **OWL is not for drawing graphs — it's for drawing conclusions.**
