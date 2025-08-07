@@ -68,5 +68,3 @@ jupyter lab
   note         = {Accessed August 7, 2025}
 }
 ```
-
-> **OWL is not for drawing graphs — it's for drawing conclusions.**
