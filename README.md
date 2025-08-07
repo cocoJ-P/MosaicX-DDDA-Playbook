@@ -5,7 +5,9 @@
 > 📐 From raw data to interpretable dimensional insight — integrate, quantify, reduce, and explain.
 
 This notebook is a hands-on walkthrough of **DDDA**, a lightweight yet extensible toolkit for building dimensional analysis pipelines from data. It aims to **automate the discovery of Buckingham Π-groups**, quantify uncertainty, and reveal **phase-separated dimensional regimes** through real datasets.
+
 DDDA 项目的交互式 notebook，不仅演示从多源聚合物理数据到自动 Pi 组发现和不确定性分析的全过程，还记录了关键设计决策、探索思路与被放弃的方法。
+
 📦 **What's inside?**
 
 - 🔗 **Data integration** for physical quantities
