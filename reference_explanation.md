@@ -8,7 +8,7 @@
 
 📌 **Purpose**: Provided inspiration for building a fully data-driven Pi-group discovery process, with emphasis on algorithmic tractability and matrix formulations.
 
-✅ **Used in**: `notebooks/How2DDDA.ipynb`, Section 5: "Pi Discovery via Null Space"  
+✅ **Used in**: `notebooks/How2DDDA.ipynb`— _Section 3.2: compute_pi_groups()_
 🔍 **Key ideas reused**:
 
 - Treating the dimension matrix `D` as a linear system
