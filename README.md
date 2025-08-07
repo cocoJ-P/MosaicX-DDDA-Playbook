@@ -44,12 +44,12 @@ DDDA 项目的交互式 notebook，不仅演示从多源聚合物理数据到自
 
 ## 🧠 Techniques Used
 
-| Method                         | Usage                                                  | Link     |
-| ------------------------------ | ------------------------------------------------------ | -------- |
-| Null space solver              | For discovering dimensional invariants (Π-groups)      | [Open]() |
-| SVD                            | Estimate rank and reduce noise in dimensional matrices | [Open]() |
-| Sparse regression (e.g. LASSO) | Optional post-selection of relevant invariants         | [Open]() |
-| Symbolic algebra (SymPy)       | For expressing Pi groups in interpretable form         | [Open]() |
+| Method                                          | Usage                                                                                                                              | Link                                                                                                                     |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Buckingham Pi Theorem & Dimensional Analysis    | Foundation for discovering dimensionless invariants (Π-groups) from physical variables and base units                              | [Open](https://github.com/cocoJ-P/How2DDDA/notebooks/Techniques used/Buckingham Pi Theorem & Dimensional Analysis.ipynb) |
+| Linear Algebra: SVD, Eigenvalues & Eigenvectors | Used to estimate the rank of the dimensional matrix, identify null space, and analyze structural properties of dimensional systems | [Open]()                                                                                                                 |
+|                                                 |                                                                                                                                    | [Open]()                                                                                                                 |
+|                                                 |                                                                                                                                    | [Open]()                                                                                                                 |
 
 ---
 
