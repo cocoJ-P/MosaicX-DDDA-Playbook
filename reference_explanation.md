@@ -4,7 +4,7 @@
 
 ---
 
-## [1] Constantine, P. G. _Data-Driven Dimensional Analysis: Algorithms and Applications_, 2017. [`@constantine2017datadrivendimensionalanalysisalgorithms`]
+## [1] Constantine, P. G. _Data-Driven Dimensional Analysis: Algorithms and Applications_, 2017. [`@constantine2017datadrivendimensionalanalysisalgorithms`](https://github.com/cocoJ-P/How2DDDA/blob/main/references.bib)
 
 📌 **Purpose**: Provided inspiration for building a fully data-driven Pi-group discovery process, with emphasis on algorithmic tractability and matrix formulations.
 
@@ -16,3 +16,5 @@
 - Emphasizing numerical conditioning and interpretability
 
 ⚠️ **Adaptation**: While the original talk used MATLAB-style demos, we reimplemented the method in NumPy and SymPy, focusing on symbolic reasoning.
+
+---
