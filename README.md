@@ -31,14 +31,24 @@ DDDA 项目的交互式 notebook，不仅演示从多源聚合物理数据到自
 
 ---
 
-## 📦 DDDA Pipeline
+## 📦 DDDA Integration
 
-| Stage                      | Description                                                       | Link     |
-| -------------------------- | ----------------------------------------------------------------- | -------- |
-| Data Integration           | Load raw quantities and units from CSV, JSON, or measurement logs | [Open]() |
-| Uncertainty Quantification | Estimate variance and confidence bounds across sources            | [Open]() |
-| Pi Group Discovery         | Automatically compute Pi groups using dimensional matrix          | [Open]() |
-| Phase Detection            | Cluster or segment data based on dominant dimensionless groups    | [Open]() |
+| Stage                                | Description                                                       | Link     |
+| ------------------------------------ | ----------------------------------------------------------------- | -------- |
+| Data Integration & Dimensionlization | Load raw quantities and units from CSV, JSON, or measurement logs | [Open]() |
+| Uncertainty Quantification           | Estimate variance and confidence bounds across sources            | [Open]() |
+| Pi Group Discovery                   | Automatically compute Pi groups using dimensional matrix          | [Open]() |
+| Phase Detection                      | Cluster or segment data based on dominant dimensionless groups    | [Open]() |
+
+---
+
+## 📦 Composite Algorithem
+
+| Stage                | Description                                                    | Link     |
+| -------------------- | -------------------------------------------------------------- | -------- |
+| 隐函数显式化算法     | Estimate variance and confidence bounds across sources         | [Open]() |
+| 光滑插值算法         | Automatically compute Pi groups using dimensional matrix       | [Open]() |
+| Voronoi 空间赋权算法 | Cluster or segment data based on dominant dimensionless groups | [Open]() |
 
 ---
 
