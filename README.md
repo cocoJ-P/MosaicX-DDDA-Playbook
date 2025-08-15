@@ -41,12 +41,12 @@ By combining **dimensional reduction** with **coordinate system optimization**, 
 
 ## 📦 DDDA Integration
 
-| Stage                                | Description                                                       | Link     |
-| ------------------------------------ | ----------------------------------------------------------------- | -------- |
-| Data Integration & Dimensionlization | Load raw quantities and units from CSV, JSON, or measurement logs | [Open]() |
-| Uncertainty Quantification           | Estimate variance and confidence bounds across sources            | [Open]() |
-| Pi Group Discovery                   | Automatically compute Pi groups using dimensional matrix          | [Open]() |
-| Phase Detection                      | Cluster or segment data based on dominant dimensionless groups    | [Open]() |
+| Stage                                            | Description                                                                                                                         | Link     |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| Variable & Physical Model Non-Dimensionalization | Define variables, construct or import the physical model, and apply reference-scale transformation to obtain its dimensionless form | [Open]() |
+| Uncertainty Quantification                       | Estimate variance and confidence bounds across sources                                                                              | [Open]() |
+| Pi Group Discovery                               | Automatically compute Pi groups using dimensional matrix                                                                            | [Open]() |
+| Phase Detection                                  | Cluster or segment data based on dominant dimensionless groups                                                                      | [Open]() |
 
 ---
 
