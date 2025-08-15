@@ -2,23 +2,31 @@
 
 > 🚀 **DDDA: Data-Driven Dimensional Analysis**
 >
-> 📐 From raw data to interpretable dimensional insight — integrate, quantify, reduce, and explain.
+> 📐 From raw measurements to **optimal explicit functions in dimensionless form** — discover, evaluate, and refine the best local coordinate systems for describing physical manifolds.
 
-This notebook is a hands-on walkthrough of **DDDA**, a lightweight yet extensible toolkit for building dimensional analysis pipelines from data. It aims to **automate the discovery of Buckingham Π-groups**, quantify uncertainty, and reveal **phase-separated dimensional regimes** through real datasets.
+This notebook is an interactive, hands-on walkthrough of **DDDA**, a lightweight yet extensible toolkit for building **data-driven dimensional analysis pipelines**.
+It goes beyond simply computing Buckingham Π-groups: DDDA systematically searches variable combinations, evaluates **local solvability, sensitivity, and stability**, and selects the **optimal local coordinate system** in which the physical model’s manifold is expressed as a stable explicit function.
 
-DDDA 项目的交互式 notebook，不仅演示从多源聚合物理数据到自动 Pi 组发现和不确定性分析的全过程，还记录了关键设计决策、探索思路与被放弃的方法。
+By combining **dimensional reduction** with **coordinate system optimization**, the workflow ensures that each explicit form — whether expressed in raw variables or dimensionless Π-groups — captures the physical phenomenon in its most robust, interpretable form.
+
+---
 
 📦 **What's inside?**
 
-- 🔗 **Data integration** for physical quantities
-- 📊 **Uncertainty quantification** across input sources
-- ⚙️ **Automated Π-group computation** using rank-reduction and null space logic
-- 🧭 **Dimensional phase detection** and interpretation
-- 📚 Literature-backed insights with inline explanations
+- 🔗 **Multi-source physical data integration** and preprocessing
+- 📊 **Uncertainty quantification** across heterogeneous input sources
+- ⚙️ **Automated Π-group discovery** via rank-reduction and null-space computation
+- 🧭 **Local coordinate system search** with **solvability, sensitivity, and stability metrics**
+- 🧩 **Phase-separated regime detection** and explicit function fitting
+- 📚 Literature-backed insights with inline reasoning and discarded-path documentation
 
-🧪 _Note: This is a research prototype and the work has not yet been formally published._
+---
 
-📁 All code and examples are shared to help researchers and engineers understand the reasoning behind DDDA — and to make it easy to try on your own data.
+🧪 _Note: This is a research prototype — results and methods are evolving, and the work has not yet been formally published._
+
+📁 All code and examples are shared to help researchers and engineers not only reproduce the results, but also understand the **decision logic** behind DDDA’s explicit-form selection, so they can adapt it to their own datasets and physical domains.
+
+---
 
 🔗 **Project Repository**: [https://github.com/whoseboy/DDDA](https://github.com/whoseboy/DDDA)
 
