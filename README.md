@@ -79,8 +79,8 @@ By combining **dimensional reduction** with **coordinate system optimization**, 
 ## 🏃 Quickstart
 
 ```bash
-git clone https://github.com/cocoJ-P/How2DDDA.git
-cd How2DDDA
+git clone https://github.com/cocoJ-P/MosaicPi_101.git
+cd MosaicPi_101
 conda env create -f environment.yml  # or pip install -r requirements.txt
 jupyter lab
 ```
