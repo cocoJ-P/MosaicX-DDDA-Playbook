@@ -100,11 +100,11 @@ This project uses a dual-layer reference system:
 ## 📝 quote
 
 ```bibtex
-@misc{pang2025how2ddda,
+@misc{pang2025MosaicPi_101,
   author       = {Jiashun Pang},
-  title        = {How2DDDA: A Hands-on Tutorial for Data-Driven Dimensional Analysis},
+  title        = {MosaicPi_101: A Hands-on Tutorial for MosaicPi},
   year         = {2025},
-  url          = {https://github.com/cocoJ-P/How2DDDA},
+  url          = {https://github.com/cocoJ-P/MosaicPi_101},
   note         = {Accessed August 7, 2025}
 }
 ```
