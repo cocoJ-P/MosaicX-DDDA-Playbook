@@ -28,7 +28,10 @@ By combining **dimensional reduction** with **coordinate system optimization**, 
 
 ---
 
-🔗 **Project Repository**: [https://github.com/whoseboy/DDDA](https://github.com/whoseboy/DDDA)
+🔗 **Project Repository**:
+
+- [https://github.com/cocoJ-P/MosaicPi](https://github.com/cocoJ-P/MosaicPi)
+- [https://github.com/whoseboy/DDDA](https://github.com/whoseboy/DDDA)
 
 ---
 
@@ -108,3 +111,13 @@ This project uses a dual-layer reference system:
   note         = {Accessed August 7, 2025}
 }
 ```
+
+---
+
+## 🙏 Acknowledgement
+
+This work acknowledges **DDDA (Data-Driven Dimensional Analysis)** as a precursor framework that laid the groundwork for data-driven approaches to dimensional analysis and explicit function selection. The development of MosaicPi was informed by the concepts and iterative practices established in DDDA, while extending them toward a more general framework for implicit–explicit partitioning, uncertainty propagation, and experiment-informed model refinement.
+
+🔗 **DDDA Project Repository**: [https://github.com/whoseboy/DDDA](https://github.com/whoseboy/DDDA)
+
+---
