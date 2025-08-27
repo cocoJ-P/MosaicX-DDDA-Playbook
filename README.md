@@ -1,4 +1,4 @@
-# How2DDDA
+# MosaicX-DDDA-Playbook
 
 > 🚀 **DDDA: Data-Driven Dimensional Analysis**
 >
