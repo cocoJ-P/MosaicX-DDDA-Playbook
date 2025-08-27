@@ -30,7 +30,7 @@ By combining **dimensional reduction** with **coordinate system optimization**, 
 
 🔗 **Project Repository**:
 
-- [https://github.com/cocoJ-P/MosaicPi](https://github.com/cocoJ-P/MosaicPi)
+- [https://github.com/cocoJ-P/MosaicX](https://github.com/cocoJ-P/MosaicX)
 - [https://github.com/whoseboy/DDDA](https://github.com/whoseboy/DDDA)
 
 ---
